@@ -1585,7 +1585,7 @@ Se non fosse per la live, che putroppo non siamo riusicti a far funzionare dal J
 
 # Consuntivo
 
-![Gantt consuntivo](../Documenti/Gantt/GANTT_Consuntivo_Completo.jpg)
+![Gantt consuntivo](Documenti/Gantt/GANTT_Consuntivo_Completo.jpg)
 > Gantt consuntivo
 
 
